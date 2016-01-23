@@ -1,3 +1,8 @@
+#our own ignores
+build/
+dist/
+
+#from a git repo
 *.pydevproject
 .metadata
 .gradle
@@ -40,6 +45,3 @@ local.properties
 
 # STS (Spring Tool Suite)
 .springBeans
-*.jar
-
-*.class
